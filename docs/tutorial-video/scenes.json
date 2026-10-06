@@ -1,0 +1,140 @@
+{
+  "title": "StudyVerse AI: First-Session Walkthrough",
+  "scenes": [
+    {
+      "screenshot": "overview.png",
+      "tab": "START HERE",
+      "title": "Your first study session",
+      "summary": "A quick tour of the tabs and your first study loop.",
+      "points": ["Sample courses are ready", "Follow the highlighted tab", "No API key is needed for the demo"],
+      "next": "Overview - your starting point",
+      "voiceover": "Welcome to StudyVerse AI. This tour shows what each tab does and how the tools fit into one study session. Sample course data is ready, so you can follow along."
+    },
+    {
+      "screenshot": "overview.png",
+      "tab": "OVERVIEW",
+      "title": "Your home base",
+      "summary": "See today's mission and learning progress at a glance.",
+      "points": ["Today's mission and exam countdown", "Streak, mastery, XP and focus time", "Scroll for topics, packs and quests"],
+      "next": "StudyPacks - bring in your notes",
+      "voiceover": "Overview is your home base. Today's mission, exam countdown, streak, mastery, XP and focus time are here. Start Mission opens the next recommended task. Scroll down for weak topics, packs and quests."
+    },
+    {
+      "screenshot": "study-packs.png",
+      "tab": "STUDYPACKS",
+      "title": "Organize course material",
+      "summary": "Turn your notes into packs that are ready to study.",
+      "points": ["Choose Add material or Choose a file", "Import PDF, slides, Word docs or images", "Open a pack to continue"],
+      "next": "Nova Tutor - learn from a pack",
+      "voiceover": "StudyPacks is your course shelf. Choose Add material or Choose a file to import a PDF, presentation, Word document or image. Open a pack to study from it. In demo mode, uploads stay in the browser; sample packs are ready now."
+    },
+    {
+      "screenshot": "nova-tutor.png",
+      "tab": "NOVA TUTOR",
+      "title": "Learn with Nova",
+      "summary": "Ask questions grounded in your selected StudyPack.",
+      "points": ["Learn - clear explanations", "Hint - a small nudge", "Socratic or Exam - change the teaching style"],
+      "next": "Practice - check what you understand",
+      "voiceover": "Nova Tutor helps you learn from a selected StudyPack. Ask a question, then choose Learn for an explanation, Hint for a nudge, Socratic for guiding questions, or Exam for concise test-style help. Citations point back to your notes."
+    },
+    {
+      "screenshot": "practice.png",
+      "tab": "PRACTICE",
+      "title": "Practice with confidence",
+      "summary": "Check your answer and tell Nova how sure you felt.",
+      "points": ["Choose an answer", "Rate confidence from 1 to 5", "Check to update mastery and spot gaps"],
+      "next": "Boss Battle - take a timed challenge",
+      "voiceover": "Practice asks one question at a time. Choose an answer, rate confidence from one to five, then check it. Nova uses confidence as well as correctness to update your mastery and spot possible misconceptions."
+    },
+    {
+      "screenshot": "boss-battle.png",
+      "tab": "BOSS BATTLE",
+      "title": "Take a full challenge",
+      "summary": "Use Graph Guardian after reviewing a topic.",
+      "points": ["Timed assessment", "Ten questions", "Hints are off"],
+      "next": "Flashcards - keep recall fresh",
+      "voiceover": "For a timed challenge, select Boss battle at the top of Practice. It starts the Graph Guardian assessment with ten questions and no hints. Use it after reviewing a topic."
+    },
+    {
+      "screenshot": "flashcards-revealed.png",
+      "tab": "FLASHCARDS",
+      "title": "Recall, reveal, repeat",
+      "summary": "Use spaced repetition to revisit each concept at the right time.",
+      "points": ["Try to answer before revealing", "Rate it Again, Hard, Good or Easy", "Hard cards return sooner"],
+      "next": "Mistake Lab - work through gaps",
+      "voiceover": "Flashcards use active recall. Try to answer before you reveal the back, then rate it Again, Hard, Good or Easy. Hard cards return sooner; easy cards wait longer."
+    },
+    {
+      "screenshot": "mistake-lab.png",
+      "tab": "MISTAKE LAB",
+      "title": "Fix the idea behind a miss",
+      "summary": "Turn a likely misconception into a clear next step.",
+      "points": ["Review missed concepts", "Read the correction", "Mark fixed when you can explain it"],
+      "next": "Skill tree - see topic connections",
+      "voiceover": "Mistake Lab gathers your missed concepts, including answers marked with high confidence. Review the explanation, then mark an item fixed when you can explain the correction."
+    },
+    {
+      "screenshot": "skill-tree.png",
+      "tab": "SKILL TREE",
+      "title": "See how topics connect",
+      "summary": "Follow prerequisite links to decide what to study first.",
+      "points": ["Find a lower mastery node", "Follow its connections", "Refresh prerequisites first"],
+      "next": "Study planner - choose today's blocks",
+      "voiceover": "Skill tree maps topics and prerequisites. Find a lower mastery node, then follow its connections to see what to study first."
+    },
+    {
+      "screenshot": "study-planner.png",
+      "tab": "STUDY PLANNER",
+      "title": "Choose your next block",
+      "summary": "Use a short, adaptive plan to keep the day moving.",
+      "points": ["Start with a recommended block", "Check it off when complete", "Use the remaining list for your next step"],
+      "next": "Focus room - make time for the work",
+      "voiceover": "Study planner turns your priorities into today's blocks. Complete a block when it's done, and use the remaining list to pick a next step."
+    },
+    {
+      "screenshot": "focus-room.png",
+      "tab": "FOCUS ROOM",
+      "title": "Start a Pomodoro",
+      "summary": "Work on one topic with a timer and fewer distractions.",
+      "points": ["Choose a session length", "Start the timer", "Finish to record focus time and XP"],
+      "next": "Study Wrapped - review the week",
+      "voiceover": "Focus room is your Pomodoro timer. Choose a duration, start the timer, and work on one topic. Completing a session records focus time and earns XP."
+    },
+    {
+      "screenshot": "study-wrapped.png",
+      "tab": "STUDY WRAPPED",
+      "title": "Look back, then level up",
+      "summary": "See the habits and topics that shaped your week.",
+      "points": ["Review active days and focus time", "See XP and top concepts", "Pick one area for next week"],
+      "next": "Study rooms - study alongside others",
+      "voiceover": "Study Wrapped is your weekly recap. Review active days, focus time, XP and top concepts, then choose one area to keep building next week."
+    },
+    {
+      "screenshot": "study-rooms.png",
+      "tab": "STUDY ROOMS",
+      "title": "Browse shared study rooms",
+      "summary": "Find a room by subject and focus style.",
+      "points": ["Browse the room directory", "Join a demo room to see the flow", "Live chat and presence are not included yet"],
+      "next": "Profile - personalize your space",
+      "voiceover": "Study rooms is the demo directory for shared study. Browse a room and join to see the flow. This demo shows room listings; live chat and presence are not part of it yet."
+    },
+    {
+      "screenshot": "profile.png",
+      "tab": "MY PROFILE",
+      "title": "Personalize your space",
+      "summary": "Check your progress and adjust the look of StudyVerse.",
+      "points": ["See level, XP and badges", "Review learning preferences", "Choose an accent theme"],
+      "next": "Demo progress stays in this browser session",
+      "voiceover": "Your profile shows your level, XP, badges and learning preferences. Change the accent theme here. In demo mode, progress stays in this browser session."
+    },
+    {
+      "screenshot": "overview.png",
+      "tab": "THE STUDY LOOP",
+      "title": "One small step at a time",
+      "summary": "StudyVerse connects learning, practice and review.",
+      "points": ["StudyPacks - Nova - Practice", "Mistake Lab - planner - Focus", "Return to Overview for the next mission"],
+      "next": "Pick a topic and begin",
+      "voiceover": "A simple first session is: open a StudyPack, learn with Nova, practice, fix a mistake, then focus and review flashcards. Return to Overview for your next mission. Let's get started."
+    }
+  ]
+}

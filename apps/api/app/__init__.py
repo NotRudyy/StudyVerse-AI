@@ -1,0 +1,1 @@
+"""StudyVerse AI API package."""

@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+.pnpm-store/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+
+# builds
+.next/
+out/
+dist/
+coverage/
+*.py[cod]
+*.tsbuildinfo
+docs/tutorial-video/.work/
+
+# local data and secrets
+.env
+.env.*
+!.env.example
+uploads/
+*.log
+.DS_Store
+Thumbs.db
